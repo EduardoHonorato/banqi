@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "banQi",
+    "slug": "banQi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/images/img-app.png",
+    "splash": {
+      "image": "./src/images/logo-banqi.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0033C6"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

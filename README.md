@@ -38,4 +38,4 @@ Bottom tabs: Visual only, no have a function, as each button will be rendering t
 I would like to thank everyone involved for the opportunity to show my skills in this selection process.
 I am available for any questions through the contact below
 
-[WatsApp](https://wa.me/05512991096938) - +55 (12) 99109-6938
+[WhatsApp](https://wa.me/05512991096938) - +55 (12) 99109-6938

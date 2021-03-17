@@ -2,8 +2,8 @@
 
 # banQi
 
-This projetc was created for my job application.
 I used React Native and Expo for build this app.
+
 ## Installation
 
 Use the package manager [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) to install the all dependencies.
